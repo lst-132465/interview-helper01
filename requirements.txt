@@ -1,0 +1,17 @@
+# 主框架
+streamlit>=1.35.0
+
+# AI 大模型依赖
+langchain-zhipuai>=0.0.1
+
+# 文件解析（简历/PDF/Word）
+pandas>=2.0.0
+python-docx>=0.8.11
+PyPDF2>=3.0.0
+
+# 语音识别
+openai-whisper>=20231117
+torch>=2.0.0
+
+# 通用工具
+python-dotenv>=1.0.0
