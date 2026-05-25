@@ -13,5 +13,8 @@ PyPDF2>=3.0.0
 openai-whisper>=20231117
 torch>=2.0.0
 
+# 中文分词（刚刚报错缺少的库）
+jieba>=0.42.1
+
 # 通用工具
 python-dotenv>=1.0.0
